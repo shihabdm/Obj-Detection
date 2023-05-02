@@ -2,6 +2,7 @@
  Object detection test for cat and dog images
 
 Complete the following Initialisation Steps on Google Colab for files in repo
+(Google Colab Notebook included as: Detectron2ObjectModel.ipynb) 
 
 **Step 1: Following code required to install pyyaml and Detectron2 GoogleColab**
 
